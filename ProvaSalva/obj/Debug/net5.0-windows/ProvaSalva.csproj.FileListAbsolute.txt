@@ -1,0 +1,52 @@
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.exe
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.deps.json
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.runtimeconfig.json
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.runtimeconfig.dev.json
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.dll
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ref\ProvaSalva.dll
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.pdb
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.Form1.resources
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.dll
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ref\ProvaSalva.dll
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.pdb
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.csproj.CopyComplete
+C:\Users\Marcos\Desktop\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.exe
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.deps.json
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.runtimeconfig.json
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.runtimeconfig.dev.json
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.dll
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ref\ProvaSalva.dll
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\ProvaSalva.pdb
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.Form1.resources
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.dll
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ref\ProvaSalva.dll
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.pdb
+C:\Users\Marcos\Desktop\Trabalhos\Projeto de Software\ProvaSalva\ProvaSalva\obj\Debug\net5.0-windows\ProvaSalva.genruntimeconfig.cache
